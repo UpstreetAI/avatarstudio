@@ -1,4 +1,4 @@
-# Upstreet Avatar Maker
+# Upstreet Avatar Studio
 An open, collaborative and evolving 3D avatar studio for the open metaverse.
 
 # Quick Start
